@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import 'materialize-css'; // It installs the JS asset only
 import 'materialize-css/dist/css/materialize.min.css';
-import {BrowserRouter, Route, Switch} from 'react-router-dom';
+import {HashRouter, Route, Switch} from 'react-router-dom';
 import Navbar from './components/Navbar';
 import Home from './components/Home';
 import About from './components/About';
@@ -18,7 +18,7 @@ class App extends Component {
   } 
   render(){
     return (
-      <BrowserRouter>
+      <HashRouter>
           <div className="App">
             <Navbar />
             <Switch>
@@ -28,7 +28,7 @@ class App extends Component {
               <Route path = '/:post_id' component = {Post} />
             </Switch> 
           </div>
-      </BrowserRouter>  
+      </HashRouter>  
     );
   }  
 }
