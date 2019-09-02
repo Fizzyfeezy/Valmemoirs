@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Valmemoirs/static/css/main.3e51d75b.chunk.css",
+    "main.js": "/Valmemoirs/static/js/main.2c17d819.chunk.js",
+    "main.js.map": "/Valmemoirs/static/js/main.2c17d819.chunk.js.map",
+    "runtime~main.js": "/Valmemoirs/static/js/runtime~main.6f3e8ab6.js",
+    "runtime~main.js.map": "/Valmemoirs/static/js/runtime~main.6f3e8ab6.js.map",
+    "static/css/2.a166031d.chunk.css": "/Valmemoirs/static/css/2.a166031d.chunk.css",
+    "static/js/2.e51b718f.chunk.js": "/Valmemoirs/static/js/2.e51b718f.chunk.js",
+    "static/js/2.e51b718f.chunk.js.map": "/Valmemoirs/static/js/2.e51b718f.chunk.js.map",
+    "index.html": "/Valmemoirs/index.html",
+    "precache-manifest.bb4626d798177cce772d8e9818a2e9e8.js": "/Valmemoirs/precache-manifest.bb4626d798177cce772d8e9818a2e9e8.js",
+    "service-worker.js": "/Valmemoirs/service-worker.js",
+    "static/css/2.a166031d.chunk.css.map": "/Valmemoirs/static/css/2.a166031d.chunk.css.map",
+    "static/css/main.3e51d75b.chunk.css.map": "/Valmemoirs/static/css/main.3e51d75b.chunk.css.map",
+    "static/media/font-awesome.min.css": "/Valmemoirs/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/love.png": "/Valmemoirs/static/media/love.2be4f3ab.png"
+  }
+}
