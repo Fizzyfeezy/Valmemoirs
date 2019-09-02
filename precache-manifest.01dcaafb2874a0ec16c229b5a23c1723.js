@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f0669d66b77d72211edcb96f0adc9a23",
+    "revision": "f18557e72382b49cc79ae84e8fd03c72",
     "url": "/Valmemoirs/index.html"
   },
   {
-    "revision": "5155e30c7ddb0466a9f6",
+    "revision": "2eb36ffb2f0c1c323e3b",
     "url": "/Valmemoirs/static/css/2.a166031d.chunk.css"
   },
   {
-    "revision": "99b2ce40aa0de059ab4e",
+    "revision": "ea6fdabad77a68d0829f",
     "url": "/Valmemoirs/static/css/main.3e51d75b.chunk.css"
   },
   {
-    "revision": "5155e30c7ddb0466a9f6",
-    "url": "/Valmemoirs/static/js/2.e51b718f.chunk.js"
+    "revision": "2eb36ffb2f0c1c323e3b",
+    "url": "/Valmemoirs/static/js/2.5b17cd0d.chunk.js"
   },
   {
-    "revision": "99b2ce40aa0de059ab4e",
-    "url": "/Valmemoirs/static/js/main.2c17d819.chunk.js"
+    "revision": "ea6fdabad77a68d0829f",
+    "url": "/Valmemoirs/static/js/main.9e6d7130.chunk.js"
   },
   {
     "revision": "28268bdeb9b794498bf3",

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Valmemoirs/precache-manifest.bb4626d798177cce772d8e9818a2e9e8.js"
+  "/Valmemoirs/precache-manifest.01dcaafb2874a0ec16c229b5a23c1723.js"
 );
 
 self.addEventListener('message', (event) => {
